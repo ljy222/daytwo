@@ -1,4 +1,5 @@
 console.log("456");
+alert("我饿了");
 console.log("哈哈,今天的大风呼呼叫");
 console.log("哈哈,今天的大风呼呼叫");
 console.log("哈哈,今天的大风呼呼叫");
